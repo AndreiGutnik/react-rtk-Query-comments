@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/react-rtk-query-comments/static/js/main.9cf9ad1c.js",
+    "static/js/400.bb2292a1.chunk.js": "/react-rtk-query-comments/static/js/400.bb2292a1.chunk.js",
+    "static/js/198.984387a5.chunk.js": "/react-rtk-query-comments/static/js/198.984387a5.chunk.js",
+    "index.html": "/react-rtk-query-comments/index.html",
+    "main.9cf9ad1c.js.map": "/react-rtk-query-comments/static/js/main.9cf9ad1c.js.map",
+    "400.bb2292a1.chunk.js.map": "/react-rtk-query-comments/static/js/400.bb2292a1.chunk.js.map",
+    "198.984387a5.chunk.js.map": "/react-rtk-query-comments/static/js/198.984387a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9cf9ad1c.js"
+  ]
+}
